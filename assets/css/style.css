@@ -86,27 +86,26 @@ p {
     background-color: #0072bb;
 }
 
-/* This looks very redunant start */
+/* This looks very redunant start - consolidated into one */
+
 .benefitItem {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-
 /* This looks very redunant end */
 
-/* This looks very redunant start */
+/* This looks very redunant start - consolidated into one */
 
 .benefitItem h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-
 /* This looks very redunant end */
 
 
-/* This looks very redunant start */
+/* This looks very redunant start - consolidated into one */
 
 .benefitItem img {
     display: block;
@@ -117,8 +116,6 @@ p {
 /* This looks very redunant end */
 
 
-
-/* This looks very redunant start */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -147,39 +144,24 @@ p {
     color: #ffffff;
 }
 
+
+
+/* This looks very redunant start - consolidated into one */
+
+.content img {
+    max-height: 200px;
+}
+
+
 /* This looks very redunant end */
 
 
-/* This looks very redunant start */
-.search-engine-optimization img {
-    max-height: 200px;
-}
+/* This looks very redunant start - consolidated into one */
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-/* This looks very redunant end */
-
-/* This looks very redunant start */
-
-.search-engine-optimization h2 {
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /* This looks very redunant end */
